@@ -1,4 +1,3 @@
-utable file 27 lines (21 sloc) 998 Bytes
 #!/bin/bash
 
 sudo apt-get update
